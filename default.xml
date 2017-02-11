@@ -10,4 +10,5 @@
            sync-j="4" />
            
   <project path="device/sony/taoshan" name="LineageOS/android_device_sony_taoshan" />
+  <project path="kernel/sony/msm8930" name="LineageOS/android_kernel_sony_msm8930" />
 </manifest>
