@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch=".."
+           review="review.lineageos.org" />
+           
+  <default revision="refs/heads/cm-14.1"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+           
+  <project path="device/sony/taoshan" name="LineageOS/android_device_sony_taoshan" />
+</manifest>
